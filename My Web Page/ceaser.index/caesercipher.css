@@ -1,0 +1,40 @@
+#container {
+    margin: 25px;
+    height: 270px;
+    width: 1240px;
+    border: solid 2px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+#encContainer, #decContainer{
+    padding: 25px;
+    padding-top: 0px;
+    width: 550px;
+    height: 135px;
+    border: solid 2px;
+}
+#encContainer {
+    float: left;
+}
+#decContainer {
+    float: right;
+}
+
+h2, h3 {
+    text-align: center;
+
+}
+#encInput, #decInput {
+    margin-bottom: 10px;
+}
+
+#encBtn, #decBtn {
+    width: 96px;
+    height: 47px;
+    float: right;
+}
+
+#encResult, #decResult, p {
+    display: inline;
+}
