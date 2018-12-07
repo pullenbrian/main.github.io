@@ -1,6 +1,13 @@
-git add [file-
+$ git add [file-
         pullenbrian.github.io/My Web Page/css.index/css index.html
       .txt]
+      
+      git add --all
+
+$ git commit -m "Initial commit"
+
+$ git push -u origin master
+
 
   <!DOCTYPE html>
 <html>
